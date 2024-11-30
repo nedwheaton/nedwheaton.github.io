@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Test post"
+date:   2024-11-30 12:30:00 +1030
+categories: jekyll
+---
+This is my first attempt at uploading a post with Jekyll. I'll delete it once the site is up and running. Since this is a markdown file, I assume I can do things like this:
+# Header 1 #
+## Header 2 ##
+### Header 3 ###
+I should even be able to include block quotes as follows:
+> Turning and turning in the widening gyre
+> The falcon cannot hear the falconer;
+> Things fall apart; the centre cannot hold;
+> Mere anarchy is loosed upon the world,
+I can also make lists:
+* item 1
+* item 2
+* item 3
