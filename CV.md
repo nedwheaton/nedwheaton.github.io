@@ -14,7 +14,9 @@ permalink: /CV
   - Major in Philosophy, Minor in German Studies
 
 # Awards
-- J. J. McNeill Prize, Monash University
+- J. J. McNeill Prize, Monash University, 2024
   - Awarded to the top ranked Honours student in Physics or Astrophysics
-- J. L. William Scholarship, Monash University
-  - Awarded to three Honours applicants in Physics or Astrophysics on the basis of academic achievement
+- University Medal for Undergraduate Academic Excellence, Monash University, 2024
+  - Awarded to graduating students judged to have the highest record of academic achievement
+- J. L. William Scholarship, Monash University, 2024
+  - Awarded to Honours applicants in Physics or Astrophysics on the basis of academic achievement
